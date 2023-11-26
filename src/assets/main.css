@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Poller+One&display=swap');
 *{
   margin: 0;
+  font-family: 'Poller One', cursive;
 }
 #app {
   padding: 0;
-  background-image: url("src/styles/images/sky.jpg");
+  background-image: url("src/styles/images/wlppr.jpg");
   color: #eedb00;
   background-attachment: fixed;
 }
